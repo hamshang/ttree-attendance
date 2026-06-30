@@ -232,6 +232,7 @@
     <div class="subtitle">
         근무시간 관리 솔루션
     </div>
+    <p>브랜치 테스트입니다.</p>
 
     <% if (request.getAttribute("errorMessage") != null) { %>
     <div class="error-message">
